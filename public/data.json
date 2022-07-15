@@ -1,0 +1,62 @@
+[
+    {
+        "id": "6240768c48157053c3bc8222",
+        "name": "Tammie Coffey",
+        "picture": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Lamborghini/Aventador/6721/Lamborghini-Aventador-SVJ/1621849426405/front-left-side-47.jpg",
+        "price": 200000
+    },
+    {
+        "id": "6240768c51705a21d29b459f",
+        "name": "Margaret Guzman",
+        "picture": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&fit=crop",
+        "price": 300000
+    },
+    {
+        "id": "6240768ccddc626f237983b8",
+        "name": "Dianne Christian",
+        "picture": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Y2Fyc3xlbnwwfHwwfHw%3D&w=1000&q=80",
+        "price": 400000
+    },
+    {
+        "id": "6240768cd5ac7c27aa02f077",
+        "name": "Ball Ramos",
+        "picture": "https://media.istockphoto.com/photos/generic-red-suv-on-a-white-background-side-view-picture-id1157655660?k=20&m=1157655660&s=612x612&w=0&h=WOtAthbmJ9iG1zbKo4kNUsAGMe6-xM-E7a8TMxb5xmk=",
+        "price": 500000
+    },
+    {
+        "id": "6240768c01f2e5b54bc93636",
+        "name": "Rasmussen Marsh",
+        "picture": "https://i.ytimg.com/vi/dip_8dmrcaU/maxresdefault.jpg",
+        "price": 600000
+    },
+    {
+        "id": "6240768c01f2e5b54bc93636",
+        "name": "Rasmussen Marsh",
+        "picture": "https://cdn.motor1.com/images/mgl/8e8Mo/s1/most-expensive-new-cars-ever.webp",
+        "price": 700000
+    },
+    {
+        "id": "6240768c01f2e5b54bc93636",
+        "name": "Rasmussen Marsh",
+        "picture": "https://blog.dupontregistry.com/wp-content/uploads/2021/09/bugatti-bolide-8-scaled.jpg",
+        "price": 800000
+    },
+    {
+        "id": "6240768c01f2e5b54bc93636",
+        "name": "Rasmussen Marsh",
+        "picture": "https://www.bugatti.com/fileadmin/_processed_/9/5/csm_HEADER_22de7ed3a8.jpg",
+        "price": 900000
+    },
+    {
+        "id": "6240768c01f2e5b54bc93636",
+        "name": "Rasmussen Marsh",
+        "picture": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Lamborghini/Urus/4418/Lamborghini-Urus-V8/1621927166506/front-left-side-47.jpg?tr=w-150",
+        "price": 1000000
+    },
+    {
+        "id": "6240768c01f2e5b54bc93636",
+        "name": "Rasmussen Marsh",
+        "picture": "https://media.wired.com/photos/5d09594a62bcb0c9752779d9/16:9/w_2000,h_1125,c_limit/Transpo_G70_TA-518126.jpg",
+        "price": 2300000
+    }
+]
